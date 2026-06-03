@@ -1,0 +1,6 @@
+tweet_id,text,created_at,user_id,user_followers_count,user_friends_count,sentiment_ground_truth,lat_final,lng_final,emoji
+257876734421131265,the weather channel must be stopped. they know too much and are clearly building a weather machine to manipulate markets  ...,2012-10-16 00:12:59+08:00,483223,990,666,-1,37.751471,-122.412415,
+257881988059525120,Why Is Adderall New Yorks Wonder Drug?,2012-10-16 00:33:51+08:00,483223,989,666,0,37.751471,-122.412415,
+258375819662073858,mr. gas meet mr coal!!! #debates,2012-10-17 09:16:10+08:00,483223,990,666,0,37.751471,-122.412415,
+258376262547030016,Magic Gas vs Magic Underwear,2012-10-17 09:17:56+08:00,483223,990,666,0,37.751471,-122.412415,
+258379824903622656,"#classwar Barack Obama just invoked OCCUPY WALL STREET. The One Percent, Obama said. #Debate",2012-10-17 09:32:05+08:00,483223,990,666,0,37.751471,-122.412415,
