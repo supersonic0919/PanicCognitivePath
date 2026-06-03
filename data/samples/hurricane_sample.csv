@@ -1,0 +1,6 @@
+time,category,wind,air_pressure,lat_final,lng_final,event_description
+2012-10-23 02:00:00+08:00,S,65.0,1000.0,12.7,-78.7,(No significant updates provided for this period.)
+2012-10-23 05:00:00+08:00,S,70.0,999.0,12.6,-78.6,"Tropical Storm Sandy formed over the Caribbean Sea, approximately 600 km south-southwest of Kingston, Jamaica, initially moving primarily northward."
+2012-10-23 08:00:00+08:00,S,75.0,998.0,12.6,-78.4,"Tropical Storm Sandy formed over the Caribbean Sea, approximately 601 km south-southwest of Kingston, Jamaica, initially moving primarily northward."
+2012-10-23 11:00:00+08:00,S,75.0,998.0,12.7,-78.2,"Tropical Storm Sandy formed over the Caribbean Sea, approximately 602 km south-southwest of Kingston, Jamaica, initially moving primarily northward."
+2012-10-23 14:00:00+08:00,S,75.0,998.0,12.9,-78.1,"Tropical Storm Sandy formed over the Caribbean Sea, approximately 603 km south-southwest of Kingston, Jamaica, initially moving primarily northward."
